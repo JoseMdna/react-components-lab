@@ -1,4 +1,5 @@
-import WeatherForecast from "./components/WeatherForecast";
+import WeatherForecast from "./assets/components/WeatherForecast";
+
 
 const App = () => {
   const weatherForecasts = [

@@ -1,5 +1,4 @@
-import "./WeatherForecast.css";
-
+import "../WeatherForecast.css";
 
 const WeatherForecast = ({ day, img, imgAlt, conditions, time }) => {
   return (
